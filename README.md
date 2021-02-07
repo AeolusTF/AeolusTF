@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ae0lu5!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AeolusTF&theme=vue&show_icons=true" width="380">
-<p><em>Security Researcher and Bugbounty Hunter <br>
+<p><em>The sky is dark, the wind is chasing! <br>
   CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
